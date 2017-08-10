@@ -10,5 +10,3 @@ Students are required to: <ul>
   </ul>
 State_Data.py contains my implementation of the project
 State_Data.csv contains the economic data for each U.S. state <br />
-
-Examples below:
