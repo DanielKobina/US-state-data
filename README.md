@@ -9,6 +9,6 @@ Students are required to: <ul>
   <li>draw a linear regression line on the plot based on the data points </li>
   </ul>
 State_Data.py contains my implementation of the project
-State_Data.csv contains the economic data for each U.S. state
+State_Data.csv contains the economic data for each U.S. state <br />
 
 Examples below:
